@@ -17,4 +17,19 @@
 	float: none;
         margin: 0 auto;
 	}
+        /*RCG*/ 
+.rcg-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.rcg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rcg-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://scontent.fmad3-2.fna.fbcdn.net/v/t1.0-9/11836805_909927222375679_847721504639436642_n.jpg?oh=2c25abb96777a086cd9f33f6d066d23e&oe=5875B08A) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 	
