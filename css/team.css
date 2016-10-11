@@ -98,4 +98,20 @@
         margin: 0 auto;
 	}
 	
+
+        /*DMM*/ 
+.dmm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.dmm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.dmm-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://i.ytimg.com/vi/FFv5kOxpECM/hqdefault.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 	
