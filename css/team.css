@@ -114,20 +114,4 @@
 	float: none;
         margin: 0 auto;
 	}
-/*ECC*/ 
-.ecc-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.ecc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.ecc-circular {
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	background: url(http://pad3.whstatic.com/images/thumb/4/40/Reset-a-Linksys-Router-Step-4.jpg/728px-Reset-a-Linksys-Router-Step-4.jpg) no-repeat;
-	background-size: auto 200px;
-	background-position: center; 
-	float: none;
-        margin: 0 auto;
-	}
-	
 	
