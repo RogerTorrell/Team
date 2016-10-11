@@ -178,24 +178,6 @@
     float: none;
     margin: 0 auto;
 }
-
-<<<<<<< HEAD
-/*FBG*/ 
-.fbg-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.fbg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.fbg-circular {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    -webkit-border-radius: 100px;
-    -moz-border-radius: 100px;
-    background: url(http://research.phhp.ufl.edu/files/2011/05/keys.jpg) no-repeat;
-    background-size: auto 200px;
-    background-position: center; 
-    float: none;
-    margin: 0 auto;
-}
-=======
 /*CGR*/ 
 .cgr-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .cgr-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -211,6 +193,18 @@
 	float: none;
         margin: 0 auto;
 	}
->>>>>>> e5985bba1ac8a114028d53b8be4d2796adbb1856
-
-
+/*FBG*/ 
+.fbg-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.fbg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.fbg-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(http://research.phhp.ufl.edu/files/2011/05/keys.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center; 
+    float: none;
+    margin: 0 auto;
+}
