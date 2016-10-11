@@ -148,3 +148,19 @@
     margin: 0 auto;
 }
 
+/*FBG*/ 
+.fbg-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.fbg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.fbg-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(http://research.phhp.ufl.edu/files/2011/05/keys.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center; 
+    float: none;
+    margin: 0 auto;
+}
+
