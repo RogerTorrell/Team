@@ -132,3 +132,19 @@
     margin: 0 auto;
 }
 
+/*JCC*/ 
+.jcc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.jcc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.jcc-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(http://www.consultatecnologica.com/wp-content/uploads/2015/12/Ojo-Bionico.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center; 
+    float: none;
+    margin: 0 auto;
+}
+
