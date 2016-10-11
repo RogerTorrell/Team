@@ -83,9 +83,9 @@
 	}
 
 	/*ABM*/
-.rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.rt-circular {
+.abm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.abm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.abm-circular {
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
