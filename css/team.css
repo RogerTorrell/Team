@@ -2,16 +2,16 @@
 .title {font-size:60px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
 
-/*RT*/ 
-.rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.rt-circular {
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	background: url(http://blogs.bluekea.com/davidortega/files/2013/01/Montb_liard1.jpg) no-repeat;
+/*JCC*/ 
+.jcc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.jcc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.jcc-circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	background: url(http://noticiassin.com/wp-content/uploads/2016/05/Ojobionico2-639x450.jpg) no-repeat;
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
