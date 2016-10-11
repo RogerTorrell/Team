@@ -132,7 +132,6 @@
     margin: 0 auto;
 }
 
-<<<<<<< HEAD
 
 /*RTA*/ 
 .rta-title{font-size:32px; font-family:'Verdana'; text-align:center}
@@ -149,7 +148,6 @@
 	float: none;
         margin: 0 auto;
 	}      
-=======
 /*JCC*/ 
 .jcc-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .jcc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -165,5 +163,3 @@
     float: none;
     margin: 0 auto;
 }
-
->>>>>>> 6157d582801d81bdcb408ebeede81c242f174797
