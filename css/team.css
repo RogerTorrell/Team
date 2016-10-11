@@ -70,7 +70,6 @@
 .grl-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .grl-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .grl-circular {
-<<<<<<< HEAD
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
@@ -95,21 +94,21 @@
     margin: 0 auto;
 }
 
-/*ABM*/
+	/*ABM*/
 .abm-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .abm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .abm-circular {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    -webkit-border-radius: 100px;
-    -moz-border-radius: 100px;
-    background: url(http://www.roto2.com/superroto2.png) no-repeat;
-    background-size: auto 200px;
-    background-position: center; 
-    float: none;
-    margin: 0 auto;
-}
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.roto2.com/superroto2.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 
 
 /*DMM*/ 
@@ -144,6 +143,22 @@
     float: none;
     margin: 0 auto;
 }
+/*JCC*/ 
+.jcc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.jcc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.jcc-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(http://www.consultatecnologica.com/wp-content/uploads/2015/12/Ojo-Bionico.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center; 
+    float: none;
+    margin: 0 auto;
+}
+
 
 /*CGR*/ 
 .cgr-title{font-size:32px; font-family:'Arvo'; text-align:center}
@@ -160,3 +175,4 @@
 	float: none;
         margin: 0 auto;
 	}
+
