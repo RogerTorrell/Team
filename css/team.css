@@ -82,21 +82,21 @@
     margin: 0 auto;
 }
 
-/*ABM*/
+	/*ABM*/
 .abm-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .abm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .abm-circular {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    -webkit-border-radius: 100px;
-    -moz-border-radius: 100px;
-    background: url(http://www.roto2.com/superroto2.png) no-repeat;
-    background-size: auto 200px;
-    background-position: center; 
-    float: none;
-    margin: 0 auto;
-}
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.roto2.com/superroto2.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 
 
 /*DMM*/ 
@@ -132,6 +132,7 @@
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -179,3 +180,5 @@ and open the template in the editor.
         margin: 0 auto;
 	}      
 
+=======
+>>>>>>> 3d948d167906de31a661db339d21b76ae287fcd0
