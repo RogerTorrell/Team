@@ -6,12 +6,28 @@
 .rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .rt-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(http://blogs.bluekea.com/davidortega/files/2013/01/Montb_liard1.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center; 
+    float: none;
+    margin: 0 auto;
+}
+
+/*RBM*/ 
+.rbm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.rbm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rbm-circular {
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
-	background: url(http://blogs.bluekea.com/davidortega/files/2013/01/Montb_liard1.jpg) no-repeat;
+	background: url(http://img00.deviantart.net/1409/i/2015/111/9/a/chibi_prestigious_leblanc_by_tiramimoo-d6a1hm0.jpg) no-repeat;
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
