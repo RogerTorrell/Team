@@ -70,6 +70,18 @@
 .grl-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .grl-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .grl-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://www.movieposter.com/posters/archive/main/25/MPW-12700) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+	
     width: 200px;
     height: 200px;
     border-radius: 100px;
@@ -133,6 +145,7 @@
 }
 
 
+
 /*RTA*/ 
 .rta-title{font-size:32px; font-family:'Verdana'; text-align:center}
 .rta-subtitle{font-size:15px; font-family:'Times New Roman'; text-align:center; font-style:italic;}
@@ -149,6 +162,8 @@
         margin: 0 auto;
 	}      
 
+=======
+>>>>>>> 77fab526dce26ff9d8838235ff987759fa29003d
 /*JCC*/ 
 .jcc-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .jcc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -164,3 +179,21 @@
     float: none;
     margin: 0 auto;
 }
+
+/*CGR*/ 
+.cgr-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.cgr-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.cgr-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.frasesmania.com/imagenes/frases/181342563766-Rocky.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+
