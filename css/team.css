@@ -229,3 +229,18 @@
 	float: none;
         margin: 0 auto;
 	}
+/*ACC*/ 
+.acc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.acc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.acc-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.freeiconspng.com/uploads/duck-png-16.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
