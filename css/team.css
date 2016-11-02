@@ -276,3 +276,19 @@
     float: none;
     margin: 0 auto;
 }
+/*MPF*/ 
+.mpf-title{font-size:32px; font-family:'Arial'; text-align:center}
+.mpf-subtitle{font-size:15px; font-family:'Arial'; text-align:center; font-style:italic;}
+.mpf-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://pbs.twimg.com/profile_images/656855627793346560/y4XIz4SU.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+	
