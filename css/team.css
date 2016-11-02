@@ -260,3 +260,19 @@
 	float: none;
         margin: 0 auto;
 	}
+	
+/*GRV*/ 
+.grv-title{font-size:34px; font-family:'Arvo'; text-align:center}
+.grv-subtitle{font-size:12px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.grv-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.forospyware.com/avatars/744110.gif?dateline=1352316003&type=thumb) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
